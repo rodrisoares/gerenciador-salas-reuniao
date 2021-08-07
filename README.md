@@ -1,6 +1,6 @@
 <h2>Sistema de gerenciamento  de salas de reuniões com Java e Angular</h2>
  
-Sistema desenvolvido durante o bootcamp Everis FullStack Developer em parceria com a Digital Innovation one.
+Sistema desenvolvido durante o bootcamp da Digital Innovation one.
 
 <h3>Stacks Utilizadas</h3>
 
