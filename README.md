@@ -2,7 +2,7 @@
  
 Sistema desenvolvido durante o bootcamp Everis FullStack Developer em parceria com a Digital Innovation one.
 
-<h3>Stack Utilizadas</h3>
+<h3>Stacks Utilizadas</h3>
 
 - Java 11 +
 - Spring Web
